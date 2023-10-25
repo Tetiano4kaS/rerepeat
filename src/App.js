@@ -1,7 +1,9 @@
+import {Posts} from "./components/PostContainer/Posts/Posts";
+
 function App() {
     return (
         <div className="App">
-            ААААААА
+           <Posts/>
         </div>
     );
 }
